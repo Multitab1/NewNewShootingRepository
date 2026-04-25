@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BulletFire : MonoBehaviour
 {
+
     public GameObject bulletObject;
     public GameObject bulletFireObject;
     // Update is called once per frame

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CutlineWall : MonoBehaviour
+public class CutLineWall : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
